@@ -6,4 +6,8 @@ class Calculator
     end
     result
   end
+
+  def divide(dividend, divisor)
+    dividend / divisor
+  end
 end
